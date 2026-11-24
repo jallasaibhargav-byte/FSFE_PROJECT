@@ -1,5 +1,5 @@
-                              PROJECT TITLE: Hotel Website Content Management System (CMS) & Interactive Booking Widget
-										                                            ----*ABSTRACT*----
+PROJECT TITLE: Hotel Website Content Management System (CMS) & Interactive Booking Widget
+----*ABSTRACT*----
 
 1. INTRODUCTION
 In the modern hospitality industry, a seamless digital presence and an intuitive reservation process are essential for maximizing direct bookings and enhancing guest satisfaction. This project focuses on the design and development of a responsive, user-friendly Hotel Website featuring an integrated Content Management System (CMS) and a dynamic Booking Widget, built entirely using core web technologies: HTML5, CSS3, and Vanilla JavaScript.
@@ -22,7 +22,6 @@ Many independent hotels and boutique resorts rely heavily on third-party Online 
 The resulting web application provides a dual-interface solution: an engaging, friction-free booking experience for prospective guests and an empowering, easy-to-use management portal for hotel staff. By eliminating reliance on heavy frameworks or complex backend setups for prototyping, this project demonstrates how foundational web technologies can effectively solve real-world hospitality management challenges.
 
 
-
-											TEAM MEMBERS:-
-										Hrishik Neela     - 2620030024
-										Jalla Sai Bhargav - 2620030109
+TEAM MEMBERS:-
+Hrishik Neela     - 2620030024
+Jalla Sai Bhargav - 2620030109
